@@ -9,3 +9,8 @@ description: >
   My skills.
 ---
 
+The skills I possess are as follows:
+1. Video editing
+2. Audio editing
+3. Music production
+4. Photography
