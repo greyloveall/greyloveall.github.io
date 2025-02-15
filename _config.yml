@@ -38,6 +38,8 @@ navigation:
       url: "/portfolio/"
     - title: "Another Website"
       url: "https://cblevins.github.io/sp25-data/"
+    - title: "Skills"
+      url: "/skills/"
 
 include: ["_pages"]
 permalink: /:title/
@@ -76,6 +78,9 @@ minima:
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/your-linkedin-username/"
+    - title: Bilibili
+      icon: bilibili
+      url: "https://space.bilibili.com/414883386?spm_id_from=333.788.0.0"
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
