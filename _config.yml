@@ -81,6 +81,9 @@ minima:
     - title: Bilibili
       icon: bilibili
       url: "https://space.bilibili.com/414883386?spm_id_from=333.788.0.0"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/d1gougreyll/"
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"
