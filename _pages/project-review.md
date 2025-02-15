@@ -13,3 +13,7 @@ This is my project review. It was written on {{ page.date }} and falls under the
 
 ##introduction
 This is the intro to **my assignment**
+
+<div align="center">
+  <p><img src="/assets/img/example-screenshot.png" style="width: 80%;" /></p>
+</div>
