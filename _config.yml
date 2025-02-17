@@ -40,6 +40,8 @@ navigation:
       url: "https://cblevins.github.io/sp25-data/"
     - title: "Skills"
       url: "/skills/"
+    - title: "Project Review"
+      url: "/project-review/"
 
 include: ["_pages"]
 permalink: /:title/
