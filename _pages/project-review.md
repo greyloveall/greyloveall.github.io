@@ -14,7 +14,7 @@ This is my project review. It was written on {{ page.date }} and falls under the
 **Introduction**
 
 <div align="center">
-  <p><img src="/assets/img/pjrv1.png" style="width: 90%;" /></p>
+  <p><img src="/assets/img/pjrv1.png" style="width: 100%;" /></p>
 </div>
 
   The Toyota Automobile Museum's vehicle database is an online collection of the museum's exhibited vehicles. Users can explore vehicles by country, era, and exhibition status, providing a record of automotive development from the early 20th century to the present. As stated, "The Vehicles Database allows users to explore some of our vehicles preserved in working condition." Unlike commercial or research-oriented databases, this platform primarily serves as an exhibition archive, documenting the museum's collection rather than offering a comprehensive dataset of all historically significant models.
@@ -32,7 +32,7 @@ This is my project review. It was written on {{ page.date }} and falls under the
   The database primarily contains a statistical summary of the exhibition vehicles at the Toyota Automobile Museum. It includes basic vehicle information such as manufacturing year, model name, country of origin, display status, and a brief background. This structured approach allows users to easily locate specific models by year, origin, brand, and model name. By combining vehicle photos and brief introductions with basic data, users can quickly grasp the essential information.
 
 <div align="center">
-  <p><img src="/assets/img/pjrv2.png" style="width: 90%;" /></p>
+  <p><img src="/assets/img/pjrv2.png" style="width: 100%;" /></p>
 </div>
 
   However, the database's coverage is limited to vehicles actually in the museum, rather than comprehensive records of historically significant automobiles. It lacks production data, technical specifications, market data (such as original sales prices and historical valuation trends), making it unsuitable for economic or technical research. Additionally, the absence of data visualization tools like timelines or comparative analysis further limits its effectiveness as a research tool for studying automotive industry trends.
@@ -42,7 +42,7 @@ This is my project review. It was written on {{ page.date }} and falls under the
   This website has a simple and user-friendly interface, making it easy and convenient to browse its collection contents. Vehicles can be filtered by information such as country, era and display status (as mentioned earlier), enabling users to browse specific categories efficiently. The single vehicle page contains clear and concise information, accompanied by high-quality pictures, enhancing the visual appeal of the database.
 
 <div align="center">
-  <p><img src="/assets/img/pjrv3.png" style="width: 90%;" /></p>
+  <p><img src="/assets/img/pjrv3.png" style="width: 100%;" /></p>
 </div>
 
   Although the navigation function of the database is practical, it lacks advanced search functions, which will reduce the user experience. For example, users cannot search for vehicles based on technical specifications, historical significance or thematic classification (such as "JDM sports cars" or "electric vehicles"). Adding these functions would make the database more practical for both ordinary users and researchers.
